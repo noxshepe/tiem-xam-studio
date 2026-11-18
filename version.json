@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "build_date": "2026-11-18",
+  "title": "Bản cập nhật Tiệm Xăm Studio",
+  "changelog": [
+    "Hệ thống quản lý tiệm xăm & lịch hẹn",
+    "Tự động tính lương & công nợ thợ"
+  ],
+  "download_url": ""
+}
